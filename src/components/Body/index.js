@@ -34,8 +34,8 @@ const Body = () => (
             <div className="right-navbar">
               <h1 className="body-header-text">Right Navbar</h1>
               <div className="ad-box-container">
-                <p className="ad-box">Ad 1</p>
-                <p className="ad-box">Ad 2</p>
+                <p className="ad-box-1">Ad 1</p>
+                <p className="ad-box-1">Ad 2</p>
               </div>
             </div>
           ) : null}
