@@ -145,13 +145,13 @@
   }
 }
 
-.ad-box-container {
+.ad-box-containers {
   display: flex;
   justify-content: center;
 }
 
 @media screen and (min-width: 768px) {
-  .ad-box-container {
+  .ad-box-containers {
     flex-direction: column;
     width: 100%;
   }

@@ -33,7 +33,7 @@ const Body = () => (
           {showRightNavbar ? (
             <div className="right-navbar">
               <h1 className="body-header-text">Right Navbar</h1>
-              <div className="ad-box-container">
+              <div className="ad-box-containers">
                 <p className="ad-box-1">Ad 1</p>
                 <p className="ad-box-1">Ad 2</p>
               </div>
